@@ -2,7 +2,7 @@
 > **If you want to use the RandomLife App auto-renewal service, you need to agree to these rules:**
 ***You understand and agree*** that.
 - [x] 1. This service is an auto-renewal service for you if you have already opened `RandomLife App` membership service. By providing this service, you grant `RandomLife App` the right to deduct the service fee from your **iTunes account** (collectively, the "Account") balance for the next billing cycle when your membership is about to expire. This service is only available if you are logged in to your account and have automatically renewed your subscription and can successfully debit your account as described above, and you will be responsible for any failure to renew due to insufficient debit balance in your account as described above.
-- [x] 2. subscription period: 1 month, 1 year
+- [x] 2. **Subscription period**: 1 month, 1 year
 - [x] 3. Accounts that purchase auto-renewal services will be automatically charged to the **iTunes account** 24 hours** prior to the expiration of each billing cycle and will be credited to the **iTunes account** at the time of confirmation of purchase.
 - [x] 4. To **Cancel Subscription**, please manually open Apple's `Settings' --> go to `iTunes Store and App Store' --> click `Apple ID', select `View Apple ID', go to `Account Settings' page, click `Subscription', and select `RandomLife App' to cancel your subscription. If the subscription is not closed at least **24 hours** before the end of the subscription period, the subscription will be automatically renewed.
 - [x] 5. ***This Agreement may include multiple language versions, in case of any disagreement, the Chinese version shall prevail***.
